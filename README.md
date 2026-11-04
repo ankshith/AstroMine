@@ -2,8 +2,6 @@
 
 # AstroMine
 
-**Reading asteroid light. Learning asteroid families.**
-
 *A machine-learning study of asteroid reflectance spectroscopy and Bus taxonomy.*
 
 [Methodology](docs/methodology.md) · [Results](docs/results.md) · [AWS architecture](docs/aws-architecture.md) · [Data sources](#data-and-reproducibility)
