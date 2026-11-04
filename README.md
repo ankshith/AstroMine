@@ -17,8 +17,6 @@
 
 ![AstroMine pixel-art animated project preview](docs/AstroMine_README_Preview.gif)
 
-*An animated glimpse of AstroMine's asteroid spectroscopy and machine-learning workflow.*
-
 </div>
 
 ## Overview
