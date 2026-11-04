@@ -12,6 +12,14 @@
 
 ---
 
+## 🎬 Watch AstroMine in action
+
+[![Watch the AstroMine explainer](https://img.shields.io/badge/▶_WATCH-AstroMine_Explainer-172554?style=for-the-badge)](AstroMine_Repo_Explainer_short.mp4)
+
+**[▶ Watch the animated project walkthrough](AstroMine_Repo_Explainer_short.mp4)** · [Open the raw MP4](https://raw.githubusercontent.com/ankshith/AstroMine/main/AstroMine_Repo_Explainer_short.mp4)
+
+A narrated, pixel-style introduction to the SMASS-II spectra, asteroid taxonomy, data processing, machine-learning workflow and recorded test results. The video is stored in this repository, so anyone visiting AstroMine can open it directly.
+
 ## Overview
 
 Asteroids reflect sunlight differently at different wavelengths. Their **reflectance spectra** reveal surface characteristics and can be used to organize objects into **spectral taxonomic classes**. AstroMine studies spectra from the **SMASS-II asteroid survey**, joins them to Bus taxonomy labels, and trains a class-weighted support vector machine to predict taxonomic categories.
