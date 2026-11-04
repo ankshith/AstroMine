@@ -12,13 +12,17 @@
 
 ---
 
-## 🎬 Watch AstroMine in action
+## 🎬 AstroMine in action
 
-[![Watch the AstroMine explainer](https://img.shields.io/badge/▶_WATCH-AstroMine_Explainer-172554?style=for-the-badge)](AstroMine_Repo_Explainer_short.mp4)
+<div align="center">
 
-**[▶ Watch the animated project walkthrough](AstroMine_Repo_Explainer_short.mp4)** · [Open the raw MP4](https://raw.githubusercontent.com/ankshith/AstroMine/main/AstroMine_Repo_Explainer_short.mp4)
+![AstroMine pixel-art animated project preview](docs/AstroMine_README_Preview.gif)
 
-A narrated, pixel-style introduction to the SMASS-II spectra, asteroid taxonomy, data processing, machine-learning workflow and recorded test results. The video is stored in this repository, so anyone visiting AstroMine can open it directly.
+*An animated glimpse of AstroMine's asteroid spectroscopy and machine-learning workflow.*
+
+[View the GIF](docs/AstroMine_README_Preview.gif)
+
+</div>
 
 ## Overview
 
