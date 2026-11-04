@@ -12,15 +12,12 @@
 
 ---
 
-## 🎬 AstroMine in action
 
 <div align="center">
 
 ![AstroMine pixel-art animated project preview](docs/AstroMine_README_Preview.gif)
 
 *An animated glimpse of AstroMine's asteroid spectroscopy and machine-learning workflow.*
-
-[View the GIF](docs/AstroMine_README_Preview.gif)
 
 </div>
 
