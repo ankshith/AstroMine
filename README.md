@@ -116,14 +116,5 @@ PDS archives → S3 raw → Glue ETL → S3 curated / Parquet
 
 The [AWS architecture](docs/aws-architecture.md) describes a proposed workflow and not an active deployment. Currently, there are access issues with S3 and Athena, as well as permission errors with S3 Tables. No data has been uploaded to AWS, and model training has not yet started.
 
-## Next steps
-
-- Publish the original research notebook and a small source-spectrum example.
-- Add script-level tests and portable dataset-path configuration.
-- Validate on independent spectra and study minority-class uncertainty.
-- Add a 3D asteroid viewer only with independently verified orbital data.
-- Enable AWS services, enforce cost controls, and validate raw-to-curated transformations.
-
----
 
 <div align="center"><sub>AstroMine · asteroid spectroscopy × machine learning · research prototype</sub></div>
